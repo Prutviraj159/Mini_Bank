@@ -26,10 +26,10 @@ public class MiniBank {
             int choice=sc.nextInt();
 
             switch (choice) {
-                case 1 -> System.out.println("Open Account — to be implemented in a later lab.");
-                case 2 -> System.out.println("Deposit — to be implemented in a later lab.");
-                case 3 -> System.out.println("Withdraw — to be implemented in a later lab.");
-                case 4 -> System.out.println("Transfer — to be implemented in a later lab.");
+                case 1 -> System.out.println("Open Account — will be implemented.");
+                case 2 -> System.out.println("Deposit — will be implemented.");
+                case 3 -> System.out.println("Withdraw — will be implemented.");
+                case 4 -> System.out.println("Transfer — will be implemented.");
                 case 5 -> {
                     System.out.println("Thank you for using MiniBank. Goodbye!");
                     flag = false;
