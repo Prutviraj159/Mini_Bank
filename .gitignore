@@ -1,0 +1,11 @@
+# Bytecode
+bin/
+*.class
+
+# Persistence & Logs
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
