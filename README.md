@@ -3,7 +3,8 @@
 > **Course:** Object Oriented Programming (CEUE203)  
 > **Student Roll No:** 25IT045  
 > **Environment:** Java 17+ (Tested with JDK 26)  
-> **Repository:** `Mini_Bank`
+> **Repository:** `Mini_Bank`  
+> **Current Milestone:** Up to Practical 11 (State Persistence, Serialization & NIO Audit Reporting)
 
 ---
 
